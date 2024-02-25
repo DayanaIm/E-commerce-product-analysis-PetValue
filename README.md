@@ -52,13 +52,13 @@ Explore the dog kibble through this data analytics project. I've gathered and an
 
 3. **Nutritional Content per Brand:**
    - Bar chart visualizing protein, fat, fiber, and moisture content per brand.
-![Open Farm](Images/nutrition_%_by_brand_open_farm.png)
-![Blue Buffalo](Images/nutrition_%_by_brand_blue_buffalo.png)
-![Royal Canin](Images/nutrition_%_by_brand_royal_canin.png)
+![Open Farm](Images/nutrition_by_brand_open_farm.png)
+![Blue Buffalo](Images/nutrition_by_brand_blue_buffalo.png)
+![Royal Canin](Images/nutrition_by_brand_royal_canin.png)
 
 4. **Filtered Nutritional Comparison:**
    - Bar chart highlighting kibbles meeting specific nutritional criteria.
-![min_35%_protein_&_max_15%_fat](Images/min_35%_protein_&_max_15%_fat.png)
+![min_35%_protein_&_max_15%_fat](Images/min_35_protein_&_max_15_fat.png)
 
 ## Insights
 

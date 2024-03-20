@@ -1,4 +1,4 @@
-# Dog Kibble Data Analytics Project
+# E-commerce Product Analysis - PetValue
 
 ## Table of Contents
 
